@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-{{ site.author.bio }}
+NJU UG in Chemistry. Now a PhD student in HKUST(GZ) in SEE Thrust. Interested in Solid State Batteries.
 
 Welcome to my personal homepage.
 
