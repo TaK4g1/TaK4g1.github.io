@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-test
+{{ site.author.bio }}
 
 Welcome to my personal homepage.
 
