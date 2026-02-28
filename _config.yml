@@ -23,7 +23,7 @@ repository               : "TaK4g1/TaK4g1.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile-avatar.png"
   name             : "TaK4g1"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in HKUST(GZ)"
